@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 👋
 
 <!--
 **hautbli/hautbli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### 💻 Profession
+- Web Backend Programmer
+
+### 🔥 Interest
+- OOP
+- Clean Code
+- MySql
+- JPA
+- TEST
+
+### 🛠 Language & Framework
+- Java & Spring Framework
+- Python & Django
+
